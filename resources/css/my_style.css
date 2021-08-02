@@ -27,3 +27,9 @@ ul {
   .active {
     background-color: #04AA6D;
   }
+
+  .header {
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+  }
